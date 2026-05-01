@@ -7,8 +7,8 @@
 //Hold space 
 //Site detects the WPM above 100 and asks you to do a captcha test.
 
-(function () {
 
+(function () {
     function run($) {
         let inputText = "";
         let i = 0;
