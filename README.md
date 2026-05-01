@@ -1,11 +1,11 @@
 # Typeracer.com---cheat
 
-//Right click on the page 
-//Click inspect
-//Click on the Console tab
-//Paste the code inside the Console
-//Hold space 
-//Site detects the WPM above 100 and asks you to do a captcha test.
+# Right click on the page 
+# Click inspect
+# Click on the Console tab
+# Paste the code inside the Console
+# Hold space 
+# Site detects the WPM above 100 and asks you to do a captcha test.
 
 
 (function () {
